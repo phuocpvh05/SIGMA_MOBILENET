@@ -1,0 +1,10 @@
+#ifndef MOBILENET_TIMING_GENERATED_H
+#define MOBILENET_TIMING_GENERATED_H
+
+/* Generated from the routed Vivado design. */
+#define SIGMA_POST_ROUTE_VALID 1
+#define SIGMA_POST_ROUTE_FMAX_KHZ 301205u
+#define SIGMA_POST_ROUTE_WNS_PS 13
+#define SIGMA_POST_ROUTE_PERIOD_PS 3333u
+
+#endif
