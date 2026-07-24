@@ -1,0 +1,26 @@
+﻿[
+    {
+        "file":  "board.xml",
+        "bytes":  21533,
+        "sha256":  "4631fae6a88569eb7d63375960e2fb318e80c1096d20b622c94a18be5d366c3a",
+        "source":  "https://raw.githubusercontent.com/Digilent/vivado-boards/master/new/board_files/genesys-zu-5ev/C.0/board.xml"
+    },
+    {
+        "file":  "preset.xml",
+        "bytes":  86381,
+        "sha256":  "2c064891d8835ba41c0f02a0ec79ee9fb6152b1f43c297f5890ed635e08a7370",
+        "source":  "https://raw.githubusercontent.com/Digilent/vivado-boards/master/new/board_files/genesys-zu-5ev/C.0/preset.xml"
+    },
+    {
+        "file":  "part0_pins.xml",
+        "bytes":  4795,
+        "sha256":  "e862ea65666e5a069f2556c4ce207ebdf4919cc80068880f81fbd2110ebfaed3",
+        "source":  "https://raw.githubusercontent.com/Digilent/vivado-boards/master/new/board_files/genesys-zu-5ev/C.0/part0_pins.xml"
+    },
+    {
+        "file":  "changelog.txt",
+        "bytes":  199,
+        "sha256":  "3baab8b6c9ef574b37511088f2507dd74d4c66184920fd60964a25d70c0ad4ca",
+        "source":  "https://raw.githubusercontent.com/Digilent/vivado-boards/master/new/board_files/genesys-zu-5ev/C.0/changelog.txt"
+    }
+]
